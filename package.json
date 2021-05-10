@@ -1,0 +1,19 @@
+{
+  "name": "dropbox-express-app",
+  "version": "1.0.0",
+  "description": "dropbox express app",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "akmalelahi",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "dotenv": "^9.0.0",
+    "dropbox": "^9.7.0",
+    "dropbox-v2-api": "^2.4.38",
+    "express": "^4.17.1",
+    "prompt": "^1.1.0"
+  }
+}
